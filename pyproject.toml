@@ -3,6 +3,7 @@ name = "superliga-prognose"
 version = "0.1.0"
 description = "Match forecasts for the Danish Superliga, measured against the betting market"
 readme = "README.md"
+license = {text = "MIT"}
 requires-python = ">=3.11"
 dependencies = []
 

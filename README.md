@@ -67,3 +67,5 @@ The plain Poisson model sits a little behind the market, as expected. The roadma
 ## Data and licence
 
 Match data comes from football-data.co.uk. It is downloaded at run time and not included in this repository.
+
+The code is released under the MIT licence (see `LICENSE`).
